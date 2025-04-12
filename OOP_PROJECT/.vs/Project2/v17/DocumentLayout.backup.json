@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SEMESTER 5\\Work\\Github progress\\OOP_PROJECT\\OOP_PROJECT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDDAA3F-0264-437C-86CE-C8EAB1B4391C}|Project2\\Project2.vcxproj|D:\\SEMESTER 5\\Work\\Github progress\\OOP_PROJECT\\OOP_PROJECT\\Project2\\project1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1EDDAA3F-0264-437C-86CE-C8EAB1B4391C}|Project2\\Project2.vcxproj|solutionrelative:Project2\\project1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SEMESTER 5\\Work\\Github progress\\OOP_PROJECT\\OOP_PROJECT\\Project2\\user.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project2\\user.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SEMESTER 5\\Work\\Github progress\\OOP_PROJECT\\OOP_PROJECT\\Project2\\pass.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project2\\pass.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "user.txt",
+              "DocumentMoniker": "D:\\SEMESTER 5\\Work\\Github progress\\OOP_PROJECT\\OOP_PROJECT\\Project2\\user.txt",
+              "RelativeDocumentMoniker": "Project2\\user.txt",
+              "ToolTip": "D:\\SEMESTER 5\\Work\\Github progress\\OOP_PROJECT\\OOP_PROJECT\\Project2\\user.txt",
+              "RelativeToolTip": "Project2\\user.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2023-11-18T05:08:08.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "project1.cpp",
+              "DocumentMoniker": "D:\\SEMESTER 5\\Work\\Github progress\\OOP_PROJECT\\OOP_PROJECT\\Project2\\project1.cpp",
+              "RelativeDocumentMoniker": "Project2\\project1.cpp",
+              "ToolTip": "D:\\SEMESTER 5\\Work\\Github progress\\OOP_PROJECT\\OOP_PROJECT\\Project2\\project1.cpp",
+              "RelativeToolTip": "Project2\\project1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-11-15T21:34:59.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pass.txt",
+              "DocumentMoniker": "D:\\SEMESTER 5\\Work\\Github progress\\OOP_PROJECT\\OOP_PROJECT\\Project2\\pass.txt",
+              "RelativeDocumentMoniker": "Project2\\pass.txt",
+              "ToolTip": "D:\\SEMESTER 5\\Work\\Github progress\\OOP_PROJECT\\OOP_PROJECT\\Project2\\pass.txt",
+              "RelativeToolTip": "Project2\\pass.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2023-11-18T05:21:57.262Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
